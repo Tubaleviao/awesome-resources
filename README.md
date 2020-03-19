@@ -195,6 +195,7 @@ teaches kids to code! :moneybag:
 
 + <a href="https://openweathermap.org/current" target="_blank"> Open Weather Map </a> Access current weather data for any location on Earth including over 200,000 cities!
 Current weather is frequently updated based on global models and data from more than 40,000 weather stations. Data is available in JSON, XML, or HTML format. :free:
++ <a href="https://randomuser.me/" target="_blank"> Random User Generator API </a> Free and easy to use service to generate random user data for application testing. :free:
 
 
 #### License
